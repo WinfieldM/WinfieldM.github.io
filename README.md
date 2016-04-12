@@ -1,2 +1,4 @@
 # WinfieldM.github.io
-Michael Winfield's GitHub Repository
+ Copyright @ My Name
+## Description
+This will be the main portfolio page for Michael Winfield. I am currently located in New York City.
